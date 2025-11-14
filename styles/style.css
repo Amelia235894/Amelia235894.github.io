@@ -1,0 +1,51 @@
+html {
+  font-size: 10px; /* px 表示“像素（pixel）”: 基础字号为 10 像素 */
+  font-family: "Open Sans", sans-serif; /* 这应该是你从 Google Fonts 得到的其余输出。 */
+  background-color: #e0e7ed;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #04080c;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #1230c5;
+}
+h3 {
+  font-size: 20px;
+  text-align: auto;
+  margin: 0;
+  padding: 20px 0;
+  color: #000000;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  height: auto;
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #d4cbbd;
+  padding: 0 20px 20px 20px;
+  border: 2px solid rgb(199, 201, 188);
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+}
